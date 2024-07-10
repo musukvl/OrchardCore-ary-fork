@@ -5,3 +5,4 @@ mkdocs-git-revision-date-localized-plugin>=1.0.1
 pymdown-extensions>=9.5
 mkdocs-exclude>=1.0.2
 mdx_truly_sane_lists>=1.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
